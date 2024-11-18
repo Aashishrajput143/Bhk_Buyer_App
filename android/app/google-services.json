@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "187486525005",
+    "project_id": "web-push-hastkaushal",
+    "storage_bucket": "web-push-hastkaushal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187486525005:android:8fdcce9dc27e36706fae04",
+        "android_client_info": {
+          "package_name": "buyer.hastkushal.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187486525005-btc3ao5t53bmaufqlh7bo6nhba6p61aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYI0tUo7ZUrTkjJ8iGUHsPaVXxpLW2BpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187486525005-btc3ao5t53bmaufqlh7bo6nhba6p61aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187486525005:android:951b942b5ef49b506fae04",
+        "android_client_info": {
+          "package_name": "com.hastkushal.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187486525005-btc3ao5t53bmaufqlh7bo6nhba6p61aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYI0tUo7ZUrTkjJ8iGUHsPaVXxpLW2BpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187486525005-btc3ao5t53bmaufqlh7bo6nhba6p61aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
